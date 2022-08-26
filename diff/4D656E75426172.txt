@@ -1,0 +1,64 @@
+-#author("2022-08-14T17:01:35+09:00","","")
++#author("2022-08-14T17:01:52+09:00","","")
+ ** 基本情報 [#kaa209bc]
+ 
+ [[これから始めたい方へ:http://archeworldwiki.com/index.php?%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%81%9F%E3%81%84%E6%96%B9%E3%81%B8]]~
+ [[ゲームシステム:http://archeworldwiki.com/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0]]~
+ [[序盤の進め方:http://archeworldwiki.com/index.php?%E5%BA%8F%E7%9B%A4%E3%81%AE%E9%80%B2%E3%82%81%E6%96%B9]]~
+ [[編集ガイド:http://archeworldwiki.com/index.php?%E7%B7%A8%E9%9B%86%E3%82%AC%E3%82%A4%E3%83%89]]~
+ [[ArcheAgeとの相違点:http://archeworldwiki.com/index.php?ArcheAge%E3%81%A8%E3%81%AE%E7%9B%B8%E9%81%95%E7%82%B9]]~
+ 
+ ** システム [#gd244f9a]
+ [[通貨:http://archeworldwiki.com/index.php?%E9%80%9A%E8%B2%A8]]~
+ [[土地:http://archeworldwiki.com/index.php?%E5%9C%9F%E5%9C%B0]]~
+ [[生活力:http://archeworldwiki.com/index.php?%E7%94%9F%E6%B4%BB%E5%8A%9B]]~
+ [[貿易:http://archeworldwiki.com/index.php?%E8%B2%BF%E6%98%93]]~
+ 製作~
+ 
+ ** NFT [#va8f66fb]
+ 土地~
+ ファンダムカード~
+ 乗り物~
+ アバター~
+ 
+ ** [[戦闘:http://archeworldwiki.com/index.php?%E6%88%A6%E9%97%98]] [#ife7d6a7]
+ 職業・適正~
+ [[装備:http://archeworldwiki.com/index.php?%E8%A3%85%E5%82%99]]~
+ [[スキル:http://archeworldwiki.com/index.php?%E3%82%B9%E3%82%AD%E3%83%AB]]~
+ 戦闘コンテンツ~
+ インスタンスダンジョン~
+ 
+ ** 生活 [#hb08549c]
+ [[土地:http://archeworldwiki.com/index.php?%E5%9C%9F%E5%9C%B0]]~
+ [[ハウジング:http://archeworldwiki.com/index.php?%E5%AE%B6%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9]]~
+ [[農業:http://archeworldwiki.com/index.php?%E8%BE%B2%E6%A5%AD]]~
+ 共同農園~
+ 
+ ** 乗り物 [#y1e48ac8]
+ [[ペット:http://archeworldwiki.com/index.php?%E3%83%9A%E3%83%83%E3%83%88%E3%81%AE%E8%82%B2%E3%81%A6%E6%96%B9]] ~
+ 船~
+ 車~
+ 
+ ** マップ [#x2bdf30d]
+ [[ヌイア大陸:http://archeworldwiki.com/index.php?%E3%83%8C%E3%82%A4%E3%82%A2%E5%A4%A7%E9%99%B8]]~
+ [[ハリハヤ大陸:http://archeworldwiki.com/index.php?%E3%83%8F%E3%83%AA%E3%83%8F%E3%83%A4%E5%A4%A7%E9%99%B8]]~
+ [[旧大陸:http://archeworldwiki.com/index.php?%E6%97%A7%E5%A4%A7%E9%99%B8]]
+ 
+ ** クエスト [#i7b4dd40]
+ 種族~
+ 一般~
+ デイリー・ウィークリー~
+ 
+ ** コミュニティ [#d1308fca]
+ 遠征隊~
+ 血縁(家族)~
+ 
+ ** その他 [#a0cd8ee0]
+ BRSLショップ~
+ オークション~
+ 
+-&counter( [total| today| yesterday] );
++総計:&counter(total); 今日:&counter(today); 昨日:&counter(yesterday);
+ 
+ #recent(20)
+ &edit(MenuBar,noicon){編集};

@@ -1,0 +1,56 @@
+-#author("2022-08-10T18:20:07+09:00","","")
++#author("2022-08-10T20:58:57+09:00","","")
+ #contents
+ 
+ * とりあえず無料でゲームを始めたい人 [#odd86594]
+ 
+ ** VPNの導入 [#j644ba09]
+ [[ArcheWorld:https://asia.archeworld.com/]]のトップページは現在日本のサーバーからアクセス出来ない状況です。~
+ VPNを利用して台湾やインドネシア等、アジアの他国のサーバーを経由してアクセスします。
+ 
+ 無料のもの、有料のものがありますが、セキュリティや安定性・速度などを重視するなら有料のものを契約してください。~
+ とりあえず始めたいよ！って方は無料のVPNを提供しているサービスを利用して接続することもできます。~
+ 
+ *** 無料VPN [#x5341be8]
+-現在筑波大学が提供する無料のVPNサービス[[VPN Gate:https://www.vpngate.net/ja/]]
++- 筑波大学が提供する無料のVPNサービス[[VPN Gate:https://www.vpngate.net/ja/]]~
+ VPN Gateを利用する場合はサイト上の[[接続方法:https://www.vpngate.net/ja/howto.aspx]]を確認してください。
+ 
+ *** 有料VPN [#r161ff36]
+ - [[NordVPN:https://nordvpn.com/ja/]]
+ - [[Mudfish:https://www.mudfish.net/]] 
+ 
+ ** アカウント登録 [#n94fa76b]
+ [[ArcheWorld:https://asia.archeworld.com/]]より登録可能です。
+ 登録にはMetaMaskというNFTウォレットが必要となります。
+ 
+ ** クライアントダウンロード／ゲームインストール [#y1fd1cdb]
+ [[ArcheWorld:https://asia.archeworld.com/]]よりダウンロード
+ 
+ *** 動作環境 [#ied555d3]
+ 
+ ** ゲーム起動・キャラメイク [#f46a5a52]
+ [[ArcheWorld:https://asia.archeworld.com/]]のGameStartよりゲームを起動して、~
+ サーバーを選択後キャラメイクを行うことでゲームを開始できます。
+ 
+ ** 動作環境 [#r58185b8]
+ 
+ * 土地・乗り物・アバターなどのNFTを購入したい人 [#b70d02be]
+ 
+ ** kaikasウォレットの導入・Klaytn購入 [#qba30a56]
+ 1. Kaikas Google Chromeの拡張機能、もしくはスマホアプリを導入する。~
+ 2. Kaikasウォレットに会員登録（※シークレットリカバリーフレーズの取り扱いに注意！！）~
+ 3. 国内取引所でBitCoinを購入・国外取引所でKlaytnを購入~
+ ※取引所から直接取引できない場合はUSDCなどを経由する必要があります。
+ 
+ ** kaikasとMetamaskの同期 [#j5370c06]
+ ArcheWorldのアカウントの紐付けはMetaMaskのみ対応していますが、~
+ OpenSeaでKlaytnを取引する際はkaikasしか対応していません。~
+ そこで、同じウォレットアドレスをkaikasで扱えるように設定する必要があります。
+ #youtube(SBcxRar4f4Y)
+ 
+ ** OpenseaでNFT購入 [#k1a8f8de]
+ [[OpenSea:https://opensea.io/]]にてArcheWorldと検索すると、~
+ それぞれの市場が確認できます。~
+ 会員登録・購入には前述のKaikasウォレットの導入が必要となります。~
+ サイト上でKlayをWKlayに変換して購入できます。~

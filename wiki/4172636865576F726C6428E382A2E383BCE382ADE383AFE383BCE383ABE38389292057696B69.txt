@@ -1,0 +1,27 @@
+#author("2022-08-10T23:22:40+09:00","","")
+* 当サイトについて [#i2f99aa3]
+当サイトはXLGAMES社の新作ブロックチェーンMMORPG「ArcheWorld」(アーキワールド)の非公式Wikiです。~
+ゲームの情報等に関する権利は全てXLGAMES様に所属します。~
+Wikiはどなたでも編集が可能なため、ご協力いただけると嬉しいです！~
+＞＞[[編集ガイド:http://archeworldwiki.com/index.php?%E7%B7%A8%E9%9B%86%E3%82%AC%E3%82%A4%E3%83%89]]
+
+[[公式サイト:https://asia.archeworld.com/]]~
+[[公式discord:https://discord.com/invite/gQbHufwehX]]~
+[[公式Twitter:https://twitter.com/ArcheWorld_NFT]]~
+[[公式Youtube:https://www.youtube.com/channel/UCr6VSErE34grhDrxqutPr0A]]
+
+* ArcheWorldとは [#w05d44d4]
+
+#youtube(KCPCgFAu_Lw)
+
+
+「ArcheWorld」は，NFTを適用した初のシームレスオープンワールドベースのMMORPG。~
+プレイヤーは，ArcheAgeの特徴である「ハウジングシステム」の土地や家をはじめ，&br;召喚獣，乗り物，装備など多様なアイテムをNFT化して所有して取引することが可能。~
+
+また，「ArcheWorld」の経済システムは，&br;Kakao Games傘下のBORAブロックチェーン上に発行されるインゲームトークンの「Bluesalt（BSLT）」と，&br;ゲーム内メイン財貨である「アーキウム」を主軸に運営される。
+~プレイヤーはゲーム内のさまざまな活動を通じてアーキウムを獲得でき，&br;これをキャラクター成長の主材料として活用することができる。~
+
+さらに，ゲーム内の取引所でBluesaltやアーキウムを取引でき，&br;BluesaltはBORAを通じて獲得/交換が可能。~
+
+* 最新情報 [#a4039dfe]
+#twitter(ArcheWorld_NFT)
